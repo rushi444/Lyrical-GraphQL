@@ -29,3 +29,6 @@ const LyricType = new GraphQLObjectType({
 });
 
 module.exports = LyricType;
+
+
+// 5e713cce78a967509c275702
